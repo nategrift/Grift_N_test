@@ -14,4 +14,4 @@
 
 4. git commit -m 'Added Files' (give to git)
 
-5. git push hosting home-page (tell git to give to github)
+5. git push origin home-page (tell git to give to github)
