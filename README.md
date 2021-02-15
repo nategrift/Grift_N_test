@@ -3,7 +3,7 @@
 ## Cloning
 1. cd Documents
 
-2. git clone **<link from greenn clone button>**
+2. git clone **link**
 
 ## Editing and pushing to cloud
 1. git checkout -b **branch**
