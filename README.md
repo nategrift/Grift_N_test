@@ -3,15 +3,17 @@
 ## Cloning
 1. cd Documents
 
-2. git clone https://pastedlink
+2. git clone **<link from greenn clone button>**
 
 ## Editing and pushing to cloud
-1. git checkout -b branch-name
+1. git checkout -b **<branch>**
+  
+2. git status *(OPTIONAL: whats going on)*
 
-2. git status (whats going on)
+3. git add . *(picked up)*
 
-3. git add . (picked up)
+4. git status *(OPTIONAL: whats going on)*
 
-4. git commit -m 'Added Files' (give to git)
+5. git commit -m 'Added Files' *(give to git)*
 
-5. git push origin home-page (tell git to give to github)
+6. git push origin **<branch>** *(tell git to give to github)*
