@@ -1,5 +1,11 @@
 # Grift_N_test
 
+## Cloning
+1. cd Documents
+
+2. git clone https://pastedlink
+
+## Editing and pushing to cloud
 1. git checkout -b branch-name
 
 2. git status (whats going on)
