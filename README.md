@@ -6,7 +6,7 @@
 2. git clone **<link from greenn clone button>**
 
 ## Editing and pushing to cloud
-1. git checkout -b *<branch>*
+1. git checkout -b <branch>
   
 2. git status *(OPTIONAL: whats going on)*
 
@@ -16,4 +16,4 @@
 
 5. git commit -m 'Added Files' *(give to git)*
 
-6. git push origin **<branch>** *(tell git to give to github)*
+6. git push origin <branch> *(tell git to give to github)*
