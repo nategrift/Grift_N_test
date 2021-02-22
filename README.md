@@ -19,3 +19,11 @@
 5. git commit -m '**Message**' *(give to git)*
 
 6. git push origin **branch** *(tell git to give to github)*
+
+
+## Switch to main branch and then get updated branch
+1. git checkout main
+
+2. git branch
+
+3. git pull origin main *Pull new changes, updating folder*
