@@ -1,11 +1,13 @@
 # Grift_N_test
 
 ## Cloning
+*Copy folder to computer*
 1. cd Documents
 
 2. git clone **link**
 
 ## Editing and pushing to cloud
+*Copy folder to computer*
 1. git checkout -b **branch**
   
 2. git status *(OPTIONAL: whats going on)*
