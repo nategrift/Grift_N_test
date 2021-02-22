@@ -28,4 +28,4 @@
 
 2. git branch
 
-3. git pull origin main *Pull new changes, updating folder*
+3. git pull origin main *(Pull new changes, updating folder)*
