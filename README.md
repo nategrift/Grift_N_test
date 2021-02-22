@@ -18,7 +18,9 @@
 
 5. git commit -m '**Message**' *(give to git)*
 
-6. git push origin **branch** *(tell git to give to github)*
+6. git branch
+
+7. git push origin **branch** *(tell git to give to github)*
 
 
 ## Switch to main branch and then get updated branch
