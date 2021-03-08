@@ -9,7 +9,8 @@
 ## Editing and pushing to cloud
 
 1. git checkout -b **\<branch\>** 
- \n This switches branches to the branch specified.  The "-b" is creating the branch.
+ 
+ This switches branches to the branch specified.  The "-b" is creating the branch.
   
 *OPTIONAL:* git status *(OPTIONAL: whats going on)*
 
