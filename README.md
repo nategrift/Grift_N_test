@@ -8,7 +8,7 @@
 
 ## Editing and pushing to cloud
 *Copy folder to computer*
-1. git checkout -b **branch**
+1. git checkout -b **\<branch\>**
   
 2. git status *(OPTIONAL: whats going on)*
 
