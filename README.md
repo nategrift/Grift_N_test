@@ -9,11 +9,11 @@
 
 1. `git checkout -b <branch>`
 
-    This switches branches to the branch specified.  The "-b" is creating the branch.
+    This switches branches to the branch specified.  The "-b" is creating the branch. Eg. `dev.mw.header`
 2. `git add .`
 
     Adds items, or picks them up getting ready to give to git.  *NOTE: Include the "." to add all files that you have edited*
-    *NOTE: If you need to undo a `git add .`, then type `git restore --staged .`
+    *NOTE: If you need to undo a `git add .`, then type `git restore --staged .`*
 3. `git commit -m '<message>'`
 
     Commits to git. Git now has it, but it is only on our computer. 
