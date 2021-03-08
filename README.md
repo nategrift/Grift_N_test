@@ -19,7 +19,7 @@
     Commits to git. Git now has it, but it is only on our computer. 
 4. `git push origin <branch>`
 
-    Commits to GitHub.  Leaves the computer and goes to github so others can see.  the branch is the branch you are on.  And "origin" id talking about where the repository is located, for this it is Github.
+    Commits to GitHub.  Leaves the computer and goes to github so others can see.  the branch is the branch you are on.  And "origin" is talking about where the repository is located, for this it is Github.
     *NOTE: use `git branch` to see what branch you are on*
 
 ## Switch to main branch and then get updated branch
